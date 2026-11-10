@@ -23,6 +23,6 @@
 hs_err_pid*
 replay_pid*
 
-# Compiled class files and artifacts folder.
+# Compiled class files and artifacts folders.
 bin/
 target/
