@@ -1,4 +1,5 @@
 # FlameClient
 
+## Last update - ENG
 
-TT
+15/11/2026, added main logic to the Main class, first variables and constructor to the Message class.
