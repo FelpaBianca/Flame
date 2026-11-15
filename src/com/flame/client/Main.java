@@ -11,9 +11,11 @@ public class Main {
 				System.out.println("(pls no bugs)");
 
 				exitCode = test();
+			} else {
+				exitCode = execute();
 			}
 		} else {
-			exitCode = test();
+			exitCode = execute();
 		}
 
 		System.out.printf("Exited with the code %d.", exitCode);
@@ -21,10 +23,10 @@ public class Main {
 	}
 
 	public static int test () {
-		return 0;
+		return 0; // TODO
 	}
 
 	public static int execute () {
-		return 0;
+		return 0; // TODO
 	}
 }
