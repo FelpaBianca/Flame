@@ -2,7 +2,7 @@
 
 ## Descrizione - ITA
 
-Questo progetto tratta di un'applicazione di messaggistica istantanea supporta server privati.
+Questo progetto tratta di un'applicazione di messaggistica istantanea supporta server privati.  
 Per convenzione il codice verrà commentato ESCLUSIVAMENTE IN INGLESE, e non verrà tradotto.
 
 ## Last update - ENG
